@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ray_dalio",
+    "name": "Ray Dalio",
+    "type": "Person",
+    "importance": "core"
+  },
+  {
+    "id": "principles",
+    "name": "Principles-Based Thinking",
+    "type": "Concept",
+    "importance": "core"
+  },
+  {
+    "id": "systems_thinking",
+    "name": "Systems Thinking",
+    "type": "Concept",
+    "importance": "core"
+  },
+  {
+    "id": "radical_transparency",
+    "name": "Radical Transparency",
+    "type": "Method",
+    "importance": "core"
+  },
+  {
+    "id": "meritocracy",
+    "name": "Idea Meritocracy",
+    "type": "Concept",
+    "importance": "core"
+  },
+  {
+    "id": "bridgewater",
+    "name": "Bridgewater Associates",
+    "type": "Organization",
+    "importance": "core"
+  },
+  {
+    "id": "macro_investing",
+    "name": "Macro Investing",
+    "type": "Method",
+    "importance": "important"
+  },
+  {
+    "id": "diversification",
+    "name": "Portfolio Diversification",
+    "type": "Method",
+    "importance": "important"
+  },
+  {
+    "id": "all_weather",
+    "name": "All-Weather Portfolio",
+    "type": "Product",
+    "importance": "important"
+  },
+  {
+    "id": "principles_book",
+    "name": "Principles (Book)",
+    "type": "Product",
+    "importance": "important"
+  },
+  {
+    "id": "evolution",
+    "name": "Evolutionary Thinking",
+    "type": "Concept",
+    "importance": "important"
+  },
+  {
+    "id": "adaptation",
+    "name": "Adaptive Systems",
+    "type": "Concept",
+    "importance": "important"
+  }
+]

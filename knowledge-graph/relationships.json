@@ -1,0 +1,98 @@
+[
+  {
+    "source": "ray_dalio",
+    "target": "principles",
+    "type": "advocates",
+    "weight": 0.96,
+    "importance": "core",
+    "direction": "forward"
+  },
+  {
+    "source": "ray_dalio",
+    "target": "systems_thinking",
+    "type": "advocates",
+    "weight": 0.94,
+    "importance": "core",
+    "direction": "forward"
+  },
+  {
+    "source": "principles",
+    "target": "radical_transparency",
+    "type": "applies_to",
+    "weight": 0.9,
+    "importance": "core",
+    "direction": "forward"
+  },
+  {
+    "source": "systems_thinking",
+    "target": "meritocracy",
+    "type": "complements",
+    "weight": 0.88,
+    "importance": "core",
+    "direction": "forward"
+  },
+  {
+    "source": "ray_dalio",
+    "target": "bridgewater",
+    "type": "founded_by",
+    "weight": 0.98,
+    "importance": "core",
+    "direction": "forward"
+  },
+  {
+    "source": "bridgewater",
+    "target": "macro_investing",
+    "type": "exemplified_by",
+    "weight": 0.92,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "macro_investing",
+    "target": "diversification",
+    "type": "supports",
+    "weight": 0.85,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "diversification",
+    "target": "all_weather",
+    "type": "leads_to",
+    "weight": 0.88,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "principles",
+    "target": "evolution",
+    "type": "applies_to",
+    "weight": 0.82,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "evolution",
+    "target": "adaptation",
+    "type": "leads_to",
+    "weight": 0.8,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "ray_dalio",
+    "target": "principles_book",
+    "type": "created_by",
+    "weight": 0.9,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "meritocracy",
+    "target": "radical_transparency",
+    "type": "supports",
+    "weight": 0.85,
+    "importance": "important",
+    "direction": "forward"
+  }
+]
