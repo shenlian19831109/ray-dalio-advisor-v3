@@ -6,7 +6,7 @@ Mind Distiller Method v3.1 标准化知识图谱
 
 - `knowledge-graph/`: 完整的网状知识图谱
   - `entities.json`: 实体定义
-  - `relationships.json`: 关系定义
+  - `relationships.json`: 关系定义（四维度量化）
   - `simple_graph.json`: 简化版（core+important）
   - `visualization-d3-interactive.html`: 交互式可视化
 

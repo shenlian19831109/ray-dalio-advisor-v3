@@ -5,7 +5,9 @@
     "type": "advocates",
     "weight": 0.96,
     "importance": "core",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "ray_dalio",
@@ -13,7 +15,9 @@
     "type": "advocates",
     "weight": 0.94,
     "importance": "core",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "principles",
@@ -37,7 +41,9 @@
     "type": "founded_by",
     "weight": 0.98,
     "importance": "core",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1975,
+    "end_year": null
   },
   {
     "source": "bridgewater",
@@ -45,7 +51,9 @@
     "type": "exemplified_by",
     "weight": 0.92,
     "importance": "important",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1975,
+    "end_year": null
   },
   {
     "source": "macro_investing",
@@ -85,7 +93,9 @@
     "type": "created_by",
     "weight": 0.9,
     "importance": "important",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 2017,
+    "end_year": null
   },
   {
     "source": "meritocracy",
